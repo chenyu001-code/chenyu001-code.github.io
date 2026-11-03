@@ -8,7 +8,7 @@ const portfolio = {
   status: "持续充电中",
   location: "中国-浙江-嘉兴",
   email: "18205839721@139.com",
-  github: "https://github.com/kaiyang-teacher",
+  github: "https://github.com/chenyu001-code",
   csdn: "https://blog.csdn.net/ZJJXXcy?spm=1000.2115.3001.5343",
   gitee: "https://gitee.com/x_chen_yu/python_work",
   resumeUrl: "",
